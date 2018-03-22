@@ -19,4 +19,3 @@ install: ${BIN}.hex
 
 clean:
 	rm -f ${BIN}.elf ${BIN}.hex ${OBJS}
-
